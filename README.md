@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Disable-Privacy-Screens-OOBE?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Disable-Privacy-Screens-OOBE/releases/latest)
+
 # Disable Privacy OOBE (Autopilot Device Preparation / APv2)
 
 This PowerShell script configures Windows Out-of-Box Experience (OOBE) registry settings for **Autopilot Device Preparation (APv2)** so that users do **not** see privacy-related setup choices and other first-run prompts during enrollment.
@@ -130,5 +132,3 @@ PRs and improvements are welcome—especially for:
 
 - Additional logging/diagnostics
 - Validation against newer Windows builds and Autopilot Device Preparation changes
-
-
